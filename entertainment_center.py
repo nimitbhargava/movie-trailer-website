@@ -1,5 +1,5 @@
 import media
-from ud036_StarterCode import fresh_tomatoes
+import fresh_tomatoes
 
 movie_details = {"narnia": {"title": "The Chronicles of Narnia",
                             "storyline": "While playing, Lucy and her siblings"
