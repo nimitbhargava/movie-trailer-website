@@ -9,7 +9,7 @@ movie_details = {"narnia": {"title": "The Chronicles of Narnia",
                             "ated and they must now unite with Aslan to defeat"
                             " an evil queen.",
                             "poster_image_url": "https://upload.wikimedia.org/wikipedia/en/1/10/The_Chronicles_of_Narnia_-_The_Lion%2C_the_Witch_and_the_Wardrobe.jpg",  # noqa
-                            "trailer_youtube_url": "https:/	/upload.wikimedia.org/wikipedia/en/1/10/The_Chronicles_of_Narnia_-_The_Lion%2C_the_Witch_and_the_Wardrobe.jpg"},  # noqa
+                            "trailer_youtube_url": "https:/ /upload.wikimedia.org/wikipedia/en/1/10/The_Chronicles_of_Narnia_-_The_Lion%2C_the_Witch_and_the_Wardrobe.jpg"},  # noqa
                  "transcendence": {"title": "Transcendence",
                                    "storyline": "A scientist's drive for artif"
                                    "icial intelligence, takes on dangerous imp"
